@@ -77,7 +77,7 @@ export default function Home() {
           <div className="grid grid-cols-2 gap-y-8 gap-x-12 font-bold text-lg">
             <div>
               <div className="text-sm font-mono text-gray-500 mb-1">BUILDING</div>
-              <div>BRIOO Business OS</div>
+              <div>KHOLO & 48 Weather</div>
             </div>
             <div>
               <div className="text-sm font-mono text-gray-500 mb-1">LEARNING</div>
@@ -180,7 +180,7 @@ export default function Home() {
         <div className="brutalist-border bg-neo-yellow p-8 grid grid-cols-2 md:grid-cols-4 gap-8">
           <div>
             <div className="font-mono text-sm font-bold mb-2 uppercase">Projects</div>
-            <div className="font-heading text-6xl">14</div>
+            <div className="font-heading text-6xl">18</div>
           </div>
           <div>
             <div className="font-mono text-sm font-bold mb-2 uppercase">Lines of Code</div>
